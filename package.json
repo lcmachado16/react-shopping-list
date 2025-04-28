@@ -13,5 +13,20 @@
     "react-dom": "^19.1.0",
     "react-scripts": "^5.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": "git@github.com:lcmachado16/react-shopping-list.git",
+  "author": "lcmachado16 <lcmachado@inf.ufrgs.br>",
+  "license": "MIT",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
